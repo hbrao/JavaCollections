@@ -1,0 +1,1 @@
+[Modern Java Collections](https://learning.oreilly.com/videos/modern-java-collections/9780134663524/)
